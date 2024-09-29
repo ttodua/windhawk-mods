@@ -4,7 +4,7 @@ The official collection of Windhawk mods. The mods can be viewed on the [online 
 
 ## Discussing Mods
 
-You're welcome to participate in [GitHub Discussions](https://github.com/ramensoftware/windhawk-mods/discussions) or join [the Discord channel](https://discord.gg/WZgXScMud7) for a live discussion.
+You're welcome to participate in [GitHub Discussions](https://github.com/ramensoftware/windhawk-mods/discussions) or join [the Discord channel](https://discord.com/servers/windhawk-923944342991818753) for a live discussion.
 
 ## Creating a New Mod
 
@@ -27,3 +27,5 @@ Submit a mod update by creating a pull request in this repository. The pull requ
 The mod's `version` metadata value must be changed to a newer version.
 
 The mod's `github` metadata value must match the pull request author's GitHub profile. This means that you can only submit an update for a mod that you originally submitted. If you'd like to update a mod that you didn't submit, you can either submit the changes to the mod author, or submit a new mod instead.
+
+The commit message should include information about the new version. The information will be shown in the mod's changelog.
